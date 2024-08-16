@@ -22,6 +22,7 @@ struct ThirdView: View {
             
         }
         
+        // List example
 //       List {
 //            ForEach(myArray, id: \.self) { element in
 //             

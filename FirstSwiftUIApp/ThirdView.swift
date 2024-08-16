@@ -5,6 +5,8 @@
 //  Created by Mark Santoro on 8/16/24.
 //
 
+// creating a list
+
 import SwiftUI
 
 struct ThirdView: View {

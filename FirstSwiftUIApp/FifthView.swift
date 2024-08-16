@@ -1,32 +1,27 @@
 //
-//  FourthView.swift
+//  FifthView.swift
 //  FirstSwiftUIApp
 //
 //  Created by Mark Santoro on 8/16/24.
 //
 
-// Button example
+// Binding Examples
 
 import SwiftUI
 
-struct FourthView: View {
+struct FifthView: View {
     @State var myName = "Mark"
+    
     
     var body: some View {
         VStack{
             Text(myName).font(.largeTitle)
                 .padding()
-            Button(action: {
-                self.myName = "Moe"
-                
-            }) {
-               Text("MyButton")
-            }
+            TextField("placeholder", text: $myName)
         }
-        
     }
 }
 
 #Preview {
-    FourthView()
+    FifthView()
 }

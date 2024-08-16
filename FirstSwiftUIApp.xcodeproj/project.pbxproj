@@ -14,6 +14,7 @@
 		A312610E2C6EA24800543980 /* SecondView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A312610D2C6EA24800543980 /* SecondView.swift */; };
 		A3FD76FB2C6FA92000DFD6D7 /* ThirdView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3FD76FA2C6FA92000DFD6D7 /* ThirdView.swift */; };
 		A3FD76FD2C6FAF7400DFD6D7 /* FourthView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3FD76FC2C6FAF7400DFD6D7 /* FourthView.swift */; };
+		A3FD76FF2C6FB23400DFD6D7 /* FifthView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3FD76FE2C6FB23400DFD6D7 /* FifthView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		A312610D2C6EA24800543980 /* SecondView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondView.swift; sourceTree = "<group>"; };
 		A3FD76FA2C6FA92000DFD6D7 /* ThirdView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdView.swift; sourceTree = "<group>"; };
 		A3FD76FC2C6FAF7400DFD6D7 /* FourthView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FourthView.swift; sourceTree = "<group>"; };
+		A3FD76FE2C6FB23400DFD6D7 /* FifthView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FifthView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				A31261012C6E9BED00543980 /* ContentView.swift */,
 				A3FD76FA2C6FA92000DFD6D7 /* ThirdView.swift */,
 				A3FD76FC2C6FAF7400DFD6D7 /* FourthView.swift */,
+				A3FD76FE2C6FB23400DFD6D7 /* FifthView.swift */,
 				A31261032C6E9BEE00543980 /* Assets.xcassets */,
 				A31261052C6E9BEE00543980 /* Preview Content */,
 				A312610D2C6EA24800543980 /* SecondView.swift */,
@@ -150,6 +153,7 @@
 				A312610E2C6EA24800543980 /* SecondView.swift in Sources */,
 				A31261022C6E9BED00543980 /* ContentView.swift in Sources */,
 				A31261002C6E9BED00543980 /* FirstSwiftUIAppApp.swift in Sources */,
+				A3FD76FF2C6FB23400DFD6D7 /* FifthView.swift in Sources */,
 				A3FD76FD2C6FAF7400DFD6D7 /* FourthView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

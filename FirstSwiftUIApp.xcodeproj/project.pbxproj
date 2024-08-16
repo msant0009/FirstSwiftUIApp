@@ -12,6 +12,7 @@
 		A31261042C6E9BEE00543980 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A31261032C6E9BEE00543980 /* Assets.xcassets */; };
 		A31261072C6E9BEE00543980 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A31261062C6E9BEE00543980 /* Preview Assets.xcassets */; };
 		A312610E2C6EA24800543980 /* SecondView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A312610D2C6EA24800543980 /* SecondView.swift */; };
+		A3FD76FB2C6FA92000DFD6D7 /* ThirdView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3FD76FA2C6FA92000DFD6D7 /* ThirdView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		A31261032C6E9BEE00543980 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A31261062C6E9BEE00543980 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		A312610D2C6EA24800543980 /* SecondView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondView.swift; sourceTree = "<group>"; };
+		A3FD76FA2C6FA92000DFD6D7 /* ThirdView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 			children = (
 				A31260FF2C6E9BED00543980 /* FirstSwiftUIAppApp.swift */,
 				A31261012C6E9BED00543980 /* ContentView.swift */,
+				A3FD76FA2C6FA92000DFD6D7 /* ThirdView.swift */,
 				A31261032C6E9BEE00543980 /* Assets.xcassets */,
 				A31261052C6E9BEE00543980 /* Preview Content */,
 				A312610D2C6EA24800543980 /* SecondView.swift */,
@@ -140,6 +143,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A3FD76FB2C6FA92000DFD6D7 /* ThirdView.swift in Sources */,
 				A312610E2C6EA24800543980 /* SecondView.swift in Sources */,
 				A31261022C6E9BED00543980 /* ContentView.swift in Sources */,
 				A31261002C6E9BED00543980 /* FirstSwiftUIAppApp.swift in Sources */,
